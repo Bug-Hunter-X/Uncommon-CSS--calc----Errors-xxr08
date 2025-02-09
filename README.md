@@ -1,0 +1,1 @@
+This repository demonstrates uncommon errors encountered when using the `calc()` function in CSS.  Specifically, it highlights issues related to unit compatibility and unexpected results within flexbox layouts.  The `bug.css` file contains the problematic code, while `bugSolution.css` provides the corrected version.
